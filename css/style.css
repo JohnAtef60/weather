@@ -1,0 +1,54 @@
+body{
+    background-color: #1e202b;
+}
+
+.navbar-brand img{
+    width: 64px;
+    height: 38px;
+}
+
+.hero{
+    background-size: cover;
+    min-height: 350px;
+}
+
+.find-location #search{
+    color: white;
+}
+
+.find-location #submit, .subscribe-form #submit{
+    top: 5px;
+    bottom: 5px;
+    right: 5px;
+    color: white;
+}
+
+.forecast{
+    color: white;
+}
+
+.card{
+    height: 26rem;
+}
+
+.forecast-table{
+    transform: translate(0, -150px);
+}
+
+.site-footer{
+    background-color: #262936;
+}
+
+.social-links i{
+    height: 40px;
+    width: 40px;
+    background-color: #1e202b;
+}
+
+a{
+    text-decoration: none;
+}
+
+input::placeholder{
+    color: gray !important
+}
